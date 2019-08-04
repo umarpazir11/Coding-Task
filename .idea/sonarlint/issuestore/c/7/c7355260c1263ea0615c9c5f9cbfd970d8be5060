@@ -1,0 +1,12 @@
+
+vsquid:UselessImportCheck"MRemove this unused import 'com.sixt.coding.task.cars_list.CarsListViewModel'.(ÃŒ¥€øÿÿÿÿ
+bsquid:UselessImportCheck"9Remove this unused import 'androidx.lifecycle.ViewModel'.(ÛÒÚ“úÿÿÿÿ
+vsquid:UselessImportCheck"MRemove this unused import 'com.sixt.coding.task.di.factory.ViewModelFactory'.(–¶å¥øÿÿÿÿ
+jsquid:UselessImportCheck"ARemove this unused import 'androidx.lifecycle.ViewModelProvider'.(ª´÷©øÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'com.sixt.coding.task.di.ViewModelKey'.(§ıƒÃ
+Msquid:UselessImportCheck	")Remove this unused import 'dagger.Binds'.(Ê±ìã
+Vsquid:S1610"?Convert the abstract class "ViewModelModule" into an interface.(íãÛ¸
+ksquid:UselessImportCheck"GRemove this unused import 'com.sixt.coding.task.cars_map.MapViewModel'.(¢æ¶ï
+Nsquid:UselessImportCheck
+"*Remove this unused import 'dagger.Module'.(Ù·Ó
+bsquid:UselessImportCheck"9Remove this unused import 'dagger.multibindings.IntoMap'.(¿½òÓÿÿÿÿÿ

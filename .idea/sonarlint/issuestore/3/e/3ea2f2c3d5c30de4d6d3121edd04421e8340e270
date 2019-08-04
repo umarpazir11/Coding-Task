@@ -1,0 +1,9 @@
+
+Vsquid:UselessImportCheck"3Remove this unused import 'io.reactivex.Scheduler'.(çší
+Nsquid:UselessImportCheck"*Remove this unused import 'dagger.Module'.(Ù·Ó
+hsquid:UselessImportCheck"?Remove this unused import 'io.reactivex.schedulers.Schedulers'.(š‰¢úÿÿÿÿ
+rsquid:UselessImportCheck"NRemove this unused import 'io.reactivex.android.schedulers.AndroidSchedulers'.(¶çş 
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Usquid:UselessImportCheck",Remove this unused import 'dagger.Provides'.(»¶•øÿÿÿÿ
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Ssquid:UselessImportCheck"/Remove this unused import 'javax.inject.Named'.(»ßáŸ

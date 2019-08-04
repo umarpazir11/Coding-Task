@@ -1,0 +1,24 @@
+
+usquid:S26379"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Wsquid:UselessImportCheck"3Remove this unused import 'com.sixt.coding.task.R'.(ü·ºğ
+dsquid:UselessImportCheck";Remove this unused import 'androidx.fragment.app.Fragment'.(‚Š©“ùÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'android.view.ViewGroup'.(‹îá
+gsquid:UselessImportCheck	">Remove this unused import 'androidx.appcompat.widget.Toolbar'.(ÔËûİùÿÿÿÿ
+usquid:S2637'"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Wsquid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'androidx.lifecycle.ViewModelProviders'.(ê· ºÿÿÿÿÿ
+xsquid:S00116#"[Rename this field "_$_findViewCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬âÖúÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'javax.inject.Inject'.(ì–íÔ
+jsquid:UselessImportCheck"ARemove this unused import 'androidx.lifecycle.ViewModelProvider'.(ª´÷©øÿÿÿÿ
+ƒsquid:S2637Y"l"viewModelFactory" is marked "org.jetbrains.annotations.NotNull" but is not initialized in this constructor.(Æ“â¨
+\squid:UselessImportCheck"8Remove this unused import 'android.view.LayoutInflater'.(À¯ÑÇ
+isquid:UselessImportCheck"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î
+bsquid:UselessImportCheck"9Remove this unused import 'androidx.lifecycle.ViewModel'.(ÛÒÚ“úÿÿÿÿ
+osquid:UselessImportCheck"KRemove this unused import 'dagger.android.support.AndroidSupportInjection'.(° Åù
+Psquid:S1068#"4Remove this unused "_$_findViewCache" private field.(¬âÖúÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'androidx.annotation.LayoutRes'.(ÚÌñøÿÿÿÿ
+esquid:UselessImportCheck
+"ARemove this unused import 'androidx.databinding.DataBindingUtil'.(Ë…©
+jsquid:UselessImportCheck"ARemove this unused import 'androidx.databinding.ViewDataBinding'.(áÌµúùÿÿÿÿ
+usquid:S26370"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï

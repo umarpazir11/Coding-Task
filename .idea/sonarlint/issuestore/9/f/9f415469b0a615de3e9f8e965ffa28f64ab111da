@@ -1,0 +1,6 @@
+
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Isquid:S1068"2Remove this unused "sixtApiService" private field.(ã£—²
+8squid:S1170"!Make this final field static too.(ã£—²
+nsquid:UselessImportCheck"ERemove this unused import 'com.sixt.coding.task.api.NetworkServices'.(‘Ë„şÿÿÿÿ
+Lsquid:S1172"5Remove this unused method parameter "sixtApiService".(¥ôƒ

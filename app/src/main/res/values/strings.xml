@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sixt Coding Task</string>
+    <string name="title_fragment_maps">Coding Task</string>
+    <string name="title_fragment_list">Cars List</string>
+    <string name="car_loading_error">An error occurred while loading the vehicles</string>
+    <string name="car_list_logo_desc">List Logo</string>
+
+</resources>

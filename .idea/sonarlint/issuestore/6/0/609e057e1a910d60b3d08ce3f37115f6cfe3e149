@@ -1,0 +1,60 @@
+
+usquid:S2637j"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637ß"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637:"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+8squid:S1170"!Make this final field static too.(ğÅ°ì
+vsquid:S2637´"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637?"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637«"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637Ã"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637V"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+4squid:S2225å"Return empty string instead.(¥¹ï
+Isquid:S1068"-Remove this unused "fuelLevel" private field.(ïİ¬üÿÿÿÿ
+vsquid:S2637…"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+=squid:S1170"!Make this final field static too.(Œ“ÓØüÿÿÿÿ
+7squid:S1170"!Make this final field static too.(÷„îf
+usquid:S2637e"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637¢"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637,"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+8squid:S1170!"!Make this final field static too.(—µä°
+8squid:S1170
+"!Make this final field static too.(”İˆ
+Hsquid:S1068",Remove this unused "latitude" private field.(ì¯‰Åÿÿÿÿÿ
+usquid:S2637D"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+=squid:S1170"!Make this final field static too.(ŠÎÓŠûÿÿÿÿ
+Psquid:S3400"9Remove this method and declare a constant for this value.(¡ğ¬
+usquid:S2637`"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Osquid:S3400Q"9Remove this method and declare a constant for this value.(¡ğ¬
+usquid:S26375"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637å"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637¾"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Psquid:S3400¦"9Remove this method and declare a constant for this value.(¡ğ¬
+=squid:S1170"!Make this final field static too.(ïİ¬üÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+usquid:S2637'"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+=squid:S1170#"!Make this final field static too.(ôÔŸîùÿÿÿÿ
+8squid:S1170"!Make this final field static too.(¶Ãú„
+8squid:S1170"!Make this final field static too.(õ¦—
+=squid:S1170"!Make this final field static too.(ˆÛâ¿ÿÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ì¯‰Åÿÿÿÿÿ
+Vsquid:S00107Ñ"=Method has 16 parameters, which is greater than 7 authorized.(ßßÉÃ
+usquid:S2637["^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Osquid:S3400H"9Remove this method and declare a constant for this value.(¡ğ¬
+vsquid:S2637È"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Isquid:S1068"-Remove this unused "longitude" private field.(Œ“ÓØüÿÿÿÿ
+vsquid:S2637“"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+=squid:S1170"!Make this final field static too.(ñö“Ñûÿÿÿÿ
+vsquid:S2637Š"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637¹"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Bsquid:S1172s"&Remove these unused method parameters.(‘”›¤ıÿÿÿÿ
+=squid:S1170"!Make this final field static too.(¯ˆ¼ùÿÿÿÿ
+=squid:S1170"!Make this final field static too.(°Àƒ£úÿÿÿÿ
+_squid:S00107r"BConstructor has 16 parameters, which is greater than 7 authorized.(š÷ó¬øÿÿÿÿ
+vsquid:S2637˜"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+8squid:S1170"!Make this final field static too.(ÿÿİê
+usquid:S2637M"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637o"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Osquid:S34000"9Remove this method and declare a constant for this value.(¡ğ¬
+Psquid:S3400¯"9Remove this method and declare a constant for this value.(¡ğ¬
+vsquid:S2637Í"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï

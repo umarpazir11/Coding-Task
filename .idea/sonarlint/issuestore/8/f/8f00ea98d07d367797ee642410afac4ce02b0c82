@@ -1,0 +1,7 @@
+
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+nsquid:UselessImportCheck"ERemove this unused import 'com.sixt.coding.task.api.NetworkServices'.(‘Ë„şÿÿÿÿ
+\squid:UselessImportCheck"3Remove this unused import 'javax.inject.Singleton'.(Ì‹¤Èúÿÿÿÿ
+rsquid:UselessImportCheck"IRemove this unused import 'com.sixt.coding.task.api.repo.CarsRepository'.(‡´ø¨ÿÿÿÿÿ
+Nsquid:UselessImportCheck"*Remove this unused import 'dagger.Module'.(Ù·Ó
+Usquid:UselessImportCheck",Remove this unused import 'dagger.Provides'.(»¶•øÿÿÿÿ

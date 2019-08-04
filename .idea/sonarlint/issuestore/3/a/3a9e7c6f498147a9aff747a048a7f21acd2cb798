@@ -1,0 +1,9 @@
+
+Psquid:S1068"4Remove this unused "_$_findViewCache" private field.(¬âÖúÿÿÿÿ
+xsquid:S00116"[Rename this field "_$_findViewCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬âÖúÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'androidx.fragment.app.FragmentManager'.(¯­ë‹ıÿÿÿÿ
+jsquid:UselessImportCheck"FRemove this unused import 'com.sixt.coding.task.cars_map.MapFragment'.(¾­êœ
+Wsquid:UselessImportCheck".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ
+lsquid:UselessImportCheck"CRemove this unused import 'com.sixt.coding.task.base.BaseActivity'.(™™»™ÿÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô“Üıÿÿÿÿ
+usquid:UselessImportCheck"QRemove this unused import 'com.sixt.coding.task.databinding.ActivityMapsBinding'.(¿İÇã

@@ -1,0 +1,19 @@
+
+Usquid:UselessImportCheck"1Remove this unused import 'com.google.gson.Gson'.(–§
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+gsquid:UselessImportCheck	"CRemove this unused import 'okhttp3.logging.HttpLoggingInterceptor'.(‰¼ƒç
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+7squid:S1170"!Make this final field static too.(Ï‹Ó
+\squid:UselessImportCheck"3Remove this unused import 'javax.inject.Singleton'.(Ì‹¤Èúÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'com.google.gson.GsonBuilder'.(”«à¬ÿÿÿÿÿ
+usquid:S2637-"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+ssquid:UselessImportCheck"JRemove this unused import 'retrofit2.converter.gson.GsonConverterFactory'.(ì§¤¹ÿÿÿÿÿ
+ysquid:UselessImportCheck"PRemove this unused import 'retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory'.(…×ˆèùÿÿÿÿ
+Usquid:UselessImportCheck",Remove this unused import 'dagger.Provides'.(»¶•øÿÿÿÿ
+nsquid:UselessImportCheck"ERemove this unused import 'com.sixt.coding.task.api.NetworkServices'.(‘Ë„şÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'okhttp3.OkHttpClient'.(ì€’Àùÿÿÿÿ
+Esquid:S1068"/Remove this unused "interceptor" private field.(Ï‹Ó
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Ssquid:UselessImportCheck
+"/Remove this unused import 'retrofit2.Retrofit'.(ŠĞİ
+Nsquid:UselessImportCheck"*Remove this unused import 'dagger.Module'.(Ù·Ó

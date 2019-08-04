@@ -1,0 +1,8 @@
+
+Nsquid:UselessImportCheck"*Remove this unused import 'dagger.Module'.(Ù·Ó
+Ssquid:UselessImportCheck"/Remove this unused import 'javax.inject.Named'.(»ßáŸ
+Vsquid:UselessImportCheck"3Remove this unused import 'io.reactivex.Scheduler'.(çší
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¬—÷îüÿÿÿÿ
+rsquid:UselessImportCheck"NRemove this unused import 'io.reactivex.android.schedulers.AndroidSchedulers'.(¶çş 
+Usquid:UselessImportCheck",Remove this unused import 'dagger.Provides'.(»¶•øÿÿÿÿ
+hsquid:UselessImportCheck"?Remove this unused import 'io.reactivex.schedulers.Schedulers'.(š‰¢úÿÿÿÿ

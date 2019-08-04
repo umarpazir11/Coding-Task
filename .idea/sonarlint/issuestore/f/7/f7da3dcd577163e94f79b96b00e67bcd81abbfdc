@@ -1,0 +1,5 @@
+
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+bsquid:UselessImportCheck"9Remove this unused import 'androidx.lifecycle.ViewModel'.(ÛÒÚ“úÿÿÿÿ
+}squid:S2637"f"disposable" is marked "org.jetbrains.annotations.NotNull" but is not initialized in this constructor.(›¬»á
+msquid:UselessImportCheck"IRemove this unused import 'io.reactivex.disposables.CompositeDisposable'.(è´ë

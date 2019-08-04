@@ -1,0 +1,9 @@
+
+Esquid:S1068".Remove this unused "viewModels" private field.(ì§œø
+jsquid:UselessImportCheck"ARemove this unused import 'androidx.lifecycle.ViewModelProvider'.(ª´÷©øÿÿÿÿ
+[squid:UselessImportCheck"2Remove this unused import 'javax.inject.Provider'.(·¯‡“úÿÿÿÿ
+8squid:S1170"!Make this final field static too.(ì§œø
+\squid:UselessImportCheck"3Remove this unused import 'javax.inject.Singleton'.(Ì‹¤Èúÿÿÿÿ
+bsquid:UselessImportCheck"9Remove this unused import 'androidx.lifecycle.ViewModel'.(ÛÒÚ“úÿÿÿÿ
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+Tsquid:UselessImportCheck"0Remove this unused import 'javax.inject.Inject'.(ì–íÔ

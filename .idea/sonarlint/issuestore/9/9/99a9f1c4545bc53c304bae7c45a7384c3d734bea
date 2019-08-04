@@ -1,0 +1,9 @@
+
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+=squid:S1170"!Make this final field static too.(è”íÁûÿÿÿÿ
+Usquid:UselessImportCheck",Remove this unused import 'dagger.Provides'.(»¶•øÿÿÿÿ
+osquid:UselessImportCheck"FRemove this unused import 'com.sixt.coding.task.base.BaseApplication'.(­–Îæÿÿÿÿÿ
+\squid:UselessImportCheck"3Remove this unused import 'javax.inject.Singleton'.(Ì‹¤Èúÿÿÿÿ
+@squid:S1172"*Remove this unused method parameter "app".(³Ûå
+Nsquid:UselessImportCheck"*Remove this unused import 'dagger.Module'.(Ù·Ó
+Wsquid:UselessImportCheck"4Remove this unused import 'android.app.Application'.(¢¶ÿI
